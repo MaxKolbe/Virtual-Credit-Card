@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://maxkolbe.github.io/Virtual-Credit-Card/)
-- Live Site URL: (https://github.com/MaxKolbe/Virtual-Credit-Card)
+- Solution URL: (https://github.com/MaxKolbe/Virtual-Credit-Card)
+- Live Site URL: (https://maxkolbe.github.io/Virtual-Credit-Card/)
 
 ## My process
 
