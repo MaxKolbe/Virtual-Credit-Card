@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <title>Frontend Mentor | Interactive card details form</title>
+<style>
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+</style>
+</head>
+<body>
+  <main class="main">
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/MaxKolbe">Maxmillian</a>.
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="part-1">
+          <div class="card">
+            <div class="inner-card">
+              <img src="./images/bg-card-front.png" id="front-card" alt="front card">
+              <div class="front">
+                <div class="logo">
+                  <img src="./images/card-logo.svg" alt="card-logo" >
+                </div>
+                <p id="card-no">0000 0000 0000 0000</p>
+                <div class="card-details">
+                  <p id="card_name">JANE APPLESEED</p>
+                  <p><span id="mm">00</span>/<span id="yy">00</span></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card back-card">
+            <div class="inner-card">
+              <img src="./images/bg-card-back.png" alt="back card">
+              <div class="back">
+               <p id="card-cvc">000</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="part-2">
+          <form action="" id="thanks">
+            <img src="./images/icon-complete.svg" alt="">
+            <h1>THANK YOU!</h1>
+            <P>We've added your card details</P>
+            <button>Continue</button>
+          </form>
+        </div>
+      </div>
+    </div>
+   </main>
+  <script src="script.js"></script>
+</body>
+</html>
