@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive card details form solution
+# Interactive card details form solution- from Frontend Mentor
 
 This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -11,7 +11,7 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 - [My process](#my-process)
   - [Continued Development](#continued-development)
   - [Built with](#built-with)
-  - [To Use Markdown](to-use-markdown)
+  - [How To Use Markdown](how-to-use-markdown)
 - [Author](#author)
 
 ## Overview
@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://maxkolbe.github.io/Virtual-Credit-Card/)
+- Live Site URL: (https://github.com/MaxKolbe/Virtual-Credit-Card)
 
 ## My process
 
@@ -52,13 +52,12 @@ This project is still open for improvements with time, I hope to keep updating a
 - Mobile-first workflow
 - Vanilla Javascript
 
-### To Use Markdown
+### How To Use Markdown
 
 Check out [The Markdown Guide](https://www.markdownguide.org/) to learn more about Markdown.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-- Github- [@myusername]()
+- Frontend Mentor - [@MaxKolbe](https://www.frontendmentor.io/profile/MaxKolbe)
+- Github- [@MaxKolbe](https://github.com/MaxKolbe)
 
